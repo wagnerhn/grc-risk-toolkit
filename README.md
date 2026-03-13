@@ -36,3 +36,11 @@ Risk Score = Impact × Likelihood
 The goal of this project is to demonstrate practical applications of risk management concepts using simple Python tools.
 
 This portfolio is intended for learning and demonstration purposes in Governance, Risk and Compliance environments.
+
+## Repository Links
+
+- Regulatory Compliance Checklist  
+  https://github.com/wagnerhn/regulatory-compliance-checklist
+
+- Risk Assessment Calculator  
+  https://github.com/wagnerhn/risk-assessment-calculator
